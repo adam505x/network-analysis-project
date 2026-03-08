@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-18">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="cilantro leaves" label="cilantro leaves" />
+      <node id="chili powder" label="chili powder" />
+      <node id="garlic" label="garlic" />
+      <node id="ginger" label="ginger" />
+      <node id="green chilies" label="green chilies" />
+      <node id="ground turmeric" label="ground turmeric" />
+      <node id="lime juice" label="lime juice" />
+      <node id="clove" label="clove" />
+      <node id="onions" label="onions" />
+      <node id="tomatoes" label="tomatoes" />
+      <node id="garam masala" label="garam masala" />
+      <node id="cumin seed" label="cumin seed" />
+      <node id="coriander" label="coriander" />
+      <node id="potatoes" label="potatoes" />
+      <node id="cucumber" label="cucumber" />
+      <node id="dried oregano" label="dried oregano" />
+      <node id="lemon juice" label="lemon juice" />
+      <node id="plain yogurt" label="plain yogurt" />
+      <node id="coconut milk" label="coconut milk" />
+      <node id="red bell pepper" label="red bell pepper" />
+      <node id="basil leaves" label="basil leaves" />
+      <node id="chicken breasts" label="chicken breasts" />
+      <node id="lemongrass" label="lemongrass" />
+      <node id="shallots" label="shallots" />
+      <node id="fish sauce" label="fish sauce" />
+      <node id="cilantro" label="cilantro" />
+      <node id="kosher salt" label="kosher salt" />
+      <node id="lime" label="lime" />
+      <node id="tumeric" label="tumeric" />
+      <node id="yellow onion" label="yellow onion" />
+      <node id="feta cheese" label="feta cheese" />
+      <node id="lemon" label="lemon" />
+      <node id="purple onion" label="purple onion" />
+      <node id="eggs" label="eggs" />
+      <node id="scallions" label="scallions" />
+      <node id="carrots" label="carrots" />
+      <node id="parsley" label="parsley" />
+      <node id="white wine" label="white wine" />
+      <node id="basil" label="basil" />
+      <node id="parmesan cheese" label="parmesan cheese" />
+      <node id="green onions" label="green onions" />
+      <node id="cayenne pepper" label="cayenne pepper" />
+      <node id="heavy cream" label="heavy cream" />
+      <node id="soy sauce" label="soy sauce" />
+      <node id="rice vinegar" label="rice vinegar" />
+      <node id="ground coriander" label="ground coriander" />
+      <node id="ground cumin" label="ground cumin" />
+      <node id="jalapeno chilies" label="jalapeno chilies" />
+      <node id="paprika" label="paprika" />
+      <node id="curry powder" label="curry powder" />
+      <node id="cashew nuts" label="cashew nuts" />
+      <node id="shrimp" label="shrimp" />
+      <node id="chopped cilantro" label="chopped cilantro" />
+      <node id="diced tomatoes" label="diced tomatoes" />
+      <node id="tomato paste" label="tomato paste" />
+      <node id="yoghurt" label="yoghurt" />
+      <node id="garlic cloves" label="garlic cloves" />
+      <node id="basmati rice" label="basmati rice" />
+      <node id="chopped fresh mint" label="chopped fresh mint" />
+      <node id="brown sugar" label="brown sugar" />
+      <node id="crushed red pepper" label="crushed red pepper" />
+      <node id="thai chile" label="thai chile" />
+      <node id="palm sugar" label="palm sugar" />
+      <node id="beansprouts" label="beansprouts" />
+      <node id="peanuts" label="peanuts" />
+      <node id="grated lemon zest" label="grated lemon zest" />
+      <node id="dill" label="dill" />
+      <node id="capers" label="capers" />
+      <node id="minced garlic" label="minced garlic" />
+      <node id="flat leaf parsley" label="flat leaf parsley" />
+      <node id="dijon mustard" label="dijon mustard" />
+      <node id="mint" label="mint" />
+      <node id="dry red wine" label="dry red wine" />
+      <node id="red wine vinegar" label="red wine vinegar" />
+      <node id="zucchini" label="zucchini" />
+      <node id="cooking spray" label="cooking spray" />
+      <node id="chopped onion" label="chopped onion" />
+      <node id="oregano" label="oregano" />
+      <node id="black peppercorns" label="black peppercorns" />
+      <node id="thyme" label="thyme" />
+      <node id="plum tomatoes" label="plum tomatoes" />
+      <node id="low salt chicken broth" label="low salt chicken broth" />
+      <node id="peeled fresh ginger" label="peeled fresh ginger" />
+      <node id="honey" label="honey" />
+      <node id="milk" label="milk" />
+      <node id="bay leaf" label="bay leaf" />
+      <node id="cinnamon sticks" label="cinnamon sticks" />
+      <node id="chickpeas" label="chickpeas" />
+      <node id="curry leaves" label="curry leaves" />
+      <node id="mustard seeds" label="mustard seeds" />
+      <node id="coriander seeds" label="coriander seeds" />
+      <node id="garlic paste" label="garlic paste" />
+      <node id="coriander powder" label="coriander powder" />
+      <node id="bay leaves" label="bay leaves" />
+      <node id="eggplant" label="eggplant" />
+      <node id="rice noodles" label="rice noodles" />
+      <node id="baking powder" label="baking powder" />
+      <node id="white sugar" label="white sugar" />
+      <node id="vanilla extract" label="vanilla extract" />
+      <node id="egg yolks" label="egg yolks" />
+      <node id="kalamata" label="kalamata" />
+    </nodes>
+    <edges>
+      <edge source="cilantro leaves" target="chili powder" id="0" weight="11" />
+      <edge source="cilantro leaves" target="garlic" id="1" weight="16" />
+      <edge source="cilantro leaves" target="ginger" id="2" weight="16" />
+      <edge source="cilantro leaves" target="green chilies" id="3" weight="12" />
+      <edge source="cilantro leaves" target="ground turmeric" id="4" weight="11" />
+      <edge source="cilantro leaves" target="lime juice" id="5" weight="13" />
+      <edge source="cilantro leaves" target="clove" id="6" weight="10" />
+      <edge source="cilantro leaves" target="onions" id="7" weight="24" />
+      <edge source="cilantro leaves" target="tomatoes" id="8" weight="12" />
+      <edge source="chili powder" target="garlic" id="9" weight="12" />
+      <edge source="chili powder" target="ginger" id="10" weight="13" />
+      <edge source="chili powder" target="garam masala" id="11" weight="15" />
+      <edge source="chili powder" target="onions" id="12" weight="20" />
+      <edge source="chili powder" target="cumin seed" id="13" weight="10" />
+      <edge source="chili powder" target="ground turmeric" id="14" weight="14" />
+      <edge source="garlic" target="ginger" id="15" weight="51" />
+      <edge source="garlic" target="green chilies" id="16" weight="11" />
+      <edge source="garlic" target="potatoes" id="17" weight="11" />
+      <edge source="garlic" target="cucumber" id="18" weight="10" />
+      <edge source="garlic" target="dried oregano" id="19" weight="20" />
+      <edge source="garlic" target="lemon juice" id="20" weight="24" />
+      <edge source="garlic" target="onions" id="21" weight="63" />
+      <edge source="garlic" target="plain yogurt" id="22" weight="10" />
+      <edge source="garlic" target="tomatoes" id="23" weight="29" />
+      <edge source="garlic" target="coconut milk" id="24" weight="26" />
+      <edge source="garlic" target="red bell pepper" id="25" weight="16" />
+      <edge source="garlic" target="basil leaves" id="26" weight="15" />
+      <edge source="garlic" target="chicken breasts" id="27" weight="22" />
+      <edge source="garlic" target="lemongrass" id="28" weight="13" />
+      <edge source="garlic" target="lime juice" id="29" weight="27" />
+      <edge source="garlic" target="shallots" id="30" weight="21" />
+      <edge source="garlic" target="fish sauce" id="31" weight="31" />
+      <edge source="garlic" target="cilantro" id="32" weight="25" />
+      <edge source="garlic" target="cumin seed" id="33" weight="16" />
+      <edge source="garlic" target="kosher salt" id="34" weight="27" />
+      <edge source="garlic" target="lime" id="35" weight="15" />
+      <edge source="garlic" target="tumeric" id="36" weight="12" />
+      <edge source="garlic" target="yellow onion" id="37" weight="17" />
+      <edge source="garlic" target="feta cheese" id="38" weight="13" />
+      <edge source="garlic" target="lemon" id="39" weight="14" />
+      <edge source="garlic" target="purple onion" id="40" weight="11" />
+      <edge source="garlic" target="eggs" id="41" weight="22" />
+      <edge source="garlic" target="garam masala" id="42" weight="26" />
+      <edge source="garlic" target="ground turmeric" id="43" weight="21" />
+      <edge source="garlic" target="scallions" id="44" weight="11" />
+      <edge source="garlic" target="carrots" id="45" weight="14" />
+      <edge source="garlic" target="parsley" id="46" weight="15" />
+      <edge source="garlic" target="white wine" id="47" weight="12" />
+      <edge source="garlic" target="basil" id="48" weight="16" />
+      <edge source="garlic" target="parmesan cheese" id="49" weight="19" />
+      <edge source="garlic" target="green onions" id="50" weight="17" />
+      <edge source="garlic" target="cayenne pepper" id="51" weight="13" />
+      <edge source="garlic" target="heavy cream" id="52" weight="10" />
+      <edge source="garlic" target="soy sauce" id="53" weight="13" />
+      <edge source="garlic" target="rice vinegar" id="54" weight="10" />
+      <edge source="garlic" target="ground coriander" id="55" weight="11" />
+      <edge source="garlic" target="ground cumin" id="56" weight="17" />
+      <edge source="garlic" target="jalapeno chilies" id="57" weight="10" />
+      <edge source="garlic" target="paprika" id="58" weight="11" />
+      <edge source="garlic" target="curry powder" id="59" weight="12" />
+      <edge source="garlic" target="cashew nuts" id="60" weight="10" />
+      <edge source="garlic" target="shrimp" id="61" weight="11" />
+      <edge source="garlic" target="chopped cilantro" id="62" weight="16" />
+      <edge source="garlic" target="diced tomatoes" id="63" weight="17" />
+      <edge source="garlic" target="tomato paste" id="64" weight="18" />
+      <edge source="ginger" target="coriander" id="65" weight="11" />
+      <edge source="ginger" target="green chilies" id="66" weight="13" />
+      <edge source="ginger" target="yoghurt" id="67" weight="11" />
+      <edge source="ginger" target="cilantro" id="68" weight="19" />
+      <edge source="ginger" target="coconut milk" id="69" weight="17" />
+      <edge source="ginger" target="garlic cloves" id="70" weight="30" />
+      <edge source="ginger" target="kosher salt" id="71" weight="22" />
+      <edge source="ginger" target="onions" id="72" weight="42" />
+      <edge source="ginger" target="clove" id="73" weight="12" />
+      <edge source="ginger" target="ground turmeric" id="74" weight="22" />
+      <edge source="ginger" target="fish sauce" id="75" weight="13" />
+      <edge source="ginger" target="cumin seed" id="76" weight="21" />
+      <edge source="ginger" target="garam masala" id="77" weight="32" />
+      <edge source="ginger" target="basmati rice" id="78" weight="13" />
+      <edge source="ginger" target="chopped cilantro" id="79" weight="13" />
+      <edge source="ginger" target="ground coriander" id="80" weight="14" />
+      <edge source="ginger" target="ground cumin" id="81" weight="21" />
+      <edge source="ginger" target="tomato paste" id="82" weight="11" />
+      <edge source="ginger" target="tumeric" id="83" weight="12" />
+      <edge source="ginger" target="lemongrass" id="84" weight="10" />
+      <edge source="ginger" target="lemon juice" id="85" weight="14" />
+      <edge source="ginger" target="chicken breasts" id="86" weight="14" />
+      <edge source="ginger" target="cayenne pepper" id="87" weight="10" />
+      <edge source="ginger" target="lime juice" id="88" weight="13" />
+      <edge source="green chilies" target="cumin seed" id="89" weight="11" />
+      <edge source="green chilies" target="garam masala" id="90" weight="12" />
+      <edge source="green chilies" target="ground turmeric" id="91" weight="14" />
+      <edge source="green chilies" target="onions" id="92" weight="24" />
+      <edge source="green chilies" target="tomatoes" id="93" weight="15" />
+      <edge source="ground turmeric" target="tomatoes" id="94" weight="14" />
+      <edge source="ground turmeric" target="cumin seed" id="95" weight="21" />
+      <edge source="ground turmeric" target="garam masala" id="96" weight="16" />
+      <edge source="ground turmeric" target="ground coriander" id="97" weight="10" />
+      <edge source="ground turmeric" target="ground cumin" id="98" weight="13" />
+      <edge source="ground turmeric" target="onions" id="99" weight="26" />
+      <edge source="lime juice" target="brown sugar" id="100" weight="10" />
+      <edge source="lime juice" target="fish sauce" id="101" weight="29" />
+      <edge source="lime juice" target="shallots" id="102" weight="16" />
+      <edge source="lime juice" target="lemongrass" id="103" weight="11" />
+      <edge source="lime juice" target="soy sauce" id="104" weight="10" />
+      <edge source="lime juice" target="chopped cilantro" id="105" weight="14" />
+      <edge source="lime juice" target="cilantro" id="106" weight="11" />
+      <edge source="lime juice" target="garlic cloves" id="107" weight="13" />
+      <edge source="lime juice" target="shrimp" id="108" weight="10" />
+      <edge source="lime juice" target="mint" id="109" weight="14" />
+      <edge source="lime juice" target="green onions" id="110" weight="11" />
+      <edge source="lime juice" target="scallions" id="111" weight="10" />
+      <edge source="clove" target="cinnamon sticks" id="112" weight="10" />
+      <edge source="clove" target="cumin seed" id="113" weight="10" />
+      <edge source="clove" target="onions" id="114" weight="16" />
+      <edge source="onions" target="coriander" id="115" weight="13" />
+      <edge source="onions" target="potatoes" id="116" weight="15" />
+      <edge source="onions" target="yoghurt" id="117" weight="10" />
+      <edge source="onions" target="lemon juice" id="118" weight="24" />
+      <edge source="onions" target="carrots" id="119" weight="24" />
+      <edge source="onions" target="cilantro" id="120" weight="14" />
+      <edge source="onions" target="garlic cloves" id="121" weight="43" />
+      <edge source="onions" target="milk" id="122" weight="12" />
+      <edge source="onions" target="bay leaf" id="123" weight="13" />
+      <edge source="onions" target="cinnamon sticks" id="124" weight="18" />
+      <edge source="onions" target="tomatoes" id="125" weight="39" />
+      <edge source="onions" target="chopped cilantro" id="126" weight="19" />
+      <edge source="onions" target="cumin seed" id="127" weight="24" />
+      <edge source="onions" target="garam masala" id="128" weight="39" />
+      <edge source="onions" target="ground coriander" id="129" weight="17" />
+      <edge source="onions" target="ground cumin" id="130" weight="23" />
+      <edge source="onions" target="lemon" id="131" weight="11" />
+      <edge source="onions" target="paprika" id="132" weight="13" />
+      <edge source="onions" target="tomato paste" id="133" weight="20" />
+      <edge source="onions" target="tumeric" id="134" weight="25" />
+      <edge source="onions" target="dried oregano" id="135" weight="12" />
+      <edge source="onions" target="coconut milk" id="136" weight="24" />
+      <edge source="onions" target="red bell pepper" id="137" weight="14" />
+      <edge source="onions" target="eggs" id="138" weight="17" />
+      <edge source="onions" target="parsley" id="139" weight="12" />
+      <edge source="onions" target="white wine" id="140" weight="17" />
+      <edge source="onions" target="basmati rice" id="141" weight="14" />
+      <edge source="onions" target="diced tomatoes" id="142" weight="14" />
+      <edge source="onions" target="parmesan cheese" id="143" weight="16" />
+      <edge source="onions" target="garlic paste" id="144" weight="11" />
+      <edge source="onions" target="curry powder" id="145" weight="13" />
+      <edge source="onions" target="cayenne pepper" id="146" weight="12" />
+      <edge source="onions" target="chicken breasts" id="147" weight="20" />
+      <edge source="onions" target="coriander powder" id="148" weight="11" />
+      <edge source="onions" target="bay leaves" id="149" weight="13" />
+      <edge source="tomatoes" target="lemon juice" id="150" weight="15" />
+      <edge source="tomatoes" target="garlic cloves" id="151" weight="22" />
+      <edge source="tomatoes" target="red wine vinegar" id="152" weight="18" />
+      <edge source="tomatoes" target="cumin seed" id="153" weight="10" />
+      <edge source="tomatoes" target="garam masala" id="154" weight="14" />
+      <edge source="tomatoes" target="lemon" id="155" weight="12" />
+      <edge source="tomatoes" target="tumeric" id="156" weight="10" />
+      <edge source="tomatoes" target="cucumber" id="157" weight="17" />
+      <edge source="tomatoes" target="dried oregano" id="158" weight="16" />
+      <edge source="tomatoes" target="feta cheese" id="159" weight="20" />
+      <edge source="tomatoes" target="purple onion" id="160" weight="19" />
+      <edge source="garam masala" target="yoghurt" id="161" weight="10" />
+      <edge source="garam masala" target="lemon juice" id="162" weight="14" />
+      <edge source="garam masala" target="cilantro" id="163" weight="11" />
+      <edge source="garam masala" target="garlic cloves" id="164" weight="11" />
+      <edge source="garam masala" target="chopped cilantro" id="165" weight="11" />
+      <edge source="garam masala" target="cumin seed" id="166" weight="15" />
+      <edge source="garam masala" target="ground coriander" id="167" weight="12" />
+      <edge source="garam masala" target="ground cumin" id="168" weight="24" />
+      <edge source="garam masala" target="paprika" id="169" weight="12" />
+      <edge source="garam masala" target="tomato paste" id="170" weight="17" />
+      <edge source="garam masala" target="tumeric" id="171" weight="18" />
+      <edge source="garam masala" target="basmati rice" id="172" weight="10" />
+      <edge source="garam masala" target="kosher salt" id="173" weight="10" />
+      <edge source="garam masala" target="cayenne pepper" id="174" weight="11" />
+      <edge source="garam masala" target="chicken breasts" id="175" weight="10" />
+      <edge source="cumin seed" target="curry leaves" id="176" weight="11" />
+      <edge source="cumin seed" target="mustard seeds" id="177" weight="12" />
+      <edge source="cumin seed" target="tumeric" id="178" weight="10" />
+      <edge source="cumin seed" target="kosher salt" id="179" weight="10" />
+      <edge source="cumin seed" target="coriander seeds" id="180" weight="12" />
+      <edge source="cucumber" target="lemon juice" id="181" weight="18" />
+      <edge source="cucumber" target="garlic cloves" id="182" weight="14" />
+      <edge source="cucumber" target="red wine vinegar" id="183" weight="11" />
+      <edge source="cucumber" target="dill" id="184" weight="16" />
+      <edge source="cucumber" target="dried oregano" id="185" weight="14" />
+      <edge source="cucumber" target="feta cheese" id="186" weight="21" />
+      <edge source="cucumber" target="purple onion" id="187" weight="20" />
+      <edge source="dried oregano" target="lemon juice" id="188" weight="19" />
+      <edge source="dried oregano" target="garlic cloves" id="189" weight="19" />
+      <edge source="dried oregano" target="red wine vinegar" id="190" weight="10" />
+      <edge source="dried oregano" target="eggs" id="191" weight="11" />
+      <edge source="dried oregano" target="feta cheese" id="192" weight="30" />
+      <edge source="dried oregano" target="purple onion" id="193" weight="16" />
+      <edge source="lemon juice" target="chopped fresh mint" id="194" weight="13" />
+      <edge source="lemon juice" target="grated lemon zest" id="195" weight="15" />
+      <edge source="lemon juice" target="shallots" id="196" weight="14" />
+      <edge source="lemon juice" target="dill" id="197" weight="16" />
+      <edge source="lemon juice" target="plain yogurt" id="198" weight="10" />
+      <edge source="lemon juice" target="capers" id="199" weight="15" />
+      <edge source="lemon juice" target="parsley" id="200" weight="11" />
+      <edge source="lemon juice" target="eggs" id="201" weight="19" />
+      <edge source="lemon juice" target="feta cheese" id="202" weight="20" />
+      <edge source="lemon juice" target="garlic cloves" id="203" weight="50" />
+      <edge source="lemon juice" target="purple onion" id="204" weight="34" />
+      <edge source="lemon juice" target="minced garlic" id="205" weight="14" />
+      <edge source="lemon juice" target="chicken breasts" id="206" weight="19" />
+      <edge source="lemon juice" target="green onions" id="207" weight="10" />
+      <edge source="lemon juice" target="flat leaf parsley" id="208" weight="13" />
+      <edge source="lemon juice" target="dijon mustard" id="209" weight="12" />
+      <edge source="lemon juice" target="kosher salt" id="210" weight="13" />
+      <edge source="lemon juice" target="ground cumin" id="211" weight="16" />
+      <edge source="coconut milk" target="fish sauce" id="212" weight="12" />
+      <edge source="coconut milk" target="garlic cloves" id="213" weight="10" />
+      <edge source="coconut milk" target="lime" id="214" weight="10" />
+      <edge source="coconut milk" target="chicken breasts" id="215" weight="10" />
+      <edge source="coconut milk" target="curry powder" id="216" weight="11" />
+      <edge source="coconut milk" target="lemongrass" id="217" weight="11" />
+      <edge source="red bell pepper" target="garlic cloves" id="218" weight="17" />
+      <edge source="red bell pepper" target="zucchini" id="219" weight="11" />
+      <edge source="chicken breasts" target="fish sauce" id="220" weight="12" />
+      <edge source="chicken breasts" target="garlic cloves" id="221" weight="12" />
+      <edge source="chicken breasts" target="purple onion" id="222" weight="13" />
+      <edge source="chicken breasts" target="feta cheese" id="223" weight="10" />
+      <edge source="lemongrass" target="fish sauce" id="224" weight="15" />
+      <edge source="lemongrass" target="shallots" id="225" weight="14" />
+      <edge source="lemongrass" target="lime" id="226" weight="12" />
+      <edge source="shallots" target="fish sauce" id="227" weight="23" />
+      <edge source="shallots" target="eggs" id="228" weight="10" />
+      <edge source="shallots" target="lime" id="229" weight="10" />
+      <edge source="shallots" target="garlic cloves" id="230" weight="23" />
+      <edge source="shallots" target="white wine" id="231" weight="15" />
+      <edge source="shallots" target="minced garlic" id="232" weight="12" />
+      <edge source="fish sauce" target="brown sugar" id="233" weight="12" />
+      <edge source="fish sauce" target="basil" id="234" weight="10" />
+      <edge source="fish sauce" target="cilantro" id="235" weight="14" />
+      <edge source="fish sauce" target="garlic cloves" id="236" weight="13" />
+      <edge source="fish sauce" target="green onions" id="237" weight="11" />
+      <edge source="fish sauce" target="thai chile" id="238" weight="11" />
+      <edge source="fish sauce" target="palm sugar" id="239" weight="10" />
+      <edge source="fish sauce" target="lime" id="240" weight="19" />
+      <edge source="fish sauce" target="beansprouts" id="241" weight="11" />
+      <edge source="fish sauce" target="eggs" id="242" weight="10" />
+      <edge source="fish sauce" target="peanuts" id="243" weight="10" />
+      <edge source="fish sauce" target="chopped cilantro" id="244" weight="10" />
+      <edge source="fish sauce" target="rice vinegar" id="245" weight="10" />
+      <edge source="cilantro" target="garlic cloves" id="246" weight="10" />
+      <edge source="cilantro" target="kosher salt" id="247" weight="11" />
+      <edge source="kosher salt" target="garlic cloves" id="248" weight="17" />
+      <edge source="kosher salt" target="ground cumin" id="249" weight="11" />
+      <edge source="lime" target="scallions" id="250" weight="11" />
+      <edge source="tumeric" target="garlic cloves" id="251" weight="11" />
+      <edge source="tumeric" target="ground coriander" id="252" weight="10" />
+      <edge source="tumeric" target="ground cumin" id="253" weight="12" />
+      <edge source="feta cheese" target="garlic cloves" id="254" weight="23" />
+      <edge source="feta cheese" target="red wine vinegar" id="255" weight="15" />
+      <edge source="feta cheese" target="lemon" id="256" weight="10" />
+      <edge source="feta cheese" target="eggs" id="257" weight="16" />
+      <edge source="feta cheese" target="purple onion" id="258" weight="25" />
+      <edge source="feta cheese" target="diced tomatoes" id="259" weight="11" />
+      <edge source="feta cheese" target="parsley" id="260" weight="12" />
+      <edge source="feta cheese" target="oregano" id="261" weight="10" />
+      <edge source="feta cheese" target="kalamata" id="262" weight="10" />
+      <edge source="lemon" target="garlic cloves" id="263" weight="12" />
+      <edge source="purple onion" target="garlic cloves" id="264" weight="26" />
+      <edge source="purple onion" target="zucchini" id="265" weight="11" />
+      <edge source="purple onion" target="plum tomatoes" id="266" weight="10" />
+      <edge source="purple onion" target="cooking spray" id="267" weight="10" />
+      <edge source="eggs" target="basil" id="268" weight="14" />
+      <edge source="eggs" target="garlic cloves" id="269" weight="21" />
+      <edge source="eggs" target="green onions" id="270" weight="12" />
+      <edge source="eggs" target="milk" id="271" weight="22" />
+      <edge source="eggs" target="rice noodles" id="272" weight="10" />
+      <edge source="eggs" target="baking powder" id="273" weight="17" />
+      <edge source="eggs" target="white sugar" id="274" weight="12" />
+      <edge source="eggs" target="parmesan cheese" id="275" weight="22" />
+      <edge source="eggs" target="beansprouts" id="276" weight="10" />
+      <edge source="eggs" target="peanuts" id="277" weight="10" />
+      <edge source="eggs" target="vanilla extract" id="278" weight="15" />
+      <edge source="eggs" target="egg yolks" id="279" weight="16" />
+      <edge source="carrots" target="garlic cloves" id="280" weight="20" />
+      <edge source="carrots" target="green onions" id="281" weight="10" />
+      <edge source="carrots" target="chopped cilantro" id="282" weight="10" />
+      <edge source="parsley" target="garlic cloves" id="283" weight="18" />
+      <edge source="parsley" target="parmesan cheese" id="284" weight="10" />
+      <edge source="white wine" target="garlic cloves" id="285" weight="15" />
+      <edge source="basil" target="garlic cloves" id="286" weight="17" />
+      <edge source="parmesan cheese" target="garlic cloves" id="287" weight="16" />
+      <edge source="cayenne pepper" target="ground cumin" id="288" weight="11" />
+      <edge source="ground coriander" target="garlic cloves" id="289" weight="13" />
+      <edge source="ground coriander" target="ground cumin" id="290" weight="23" />
+      <edge source="ground cumin" target="garlic cloves" id="291" weight="18" />
+      <edge source="ground cumin" target="chickpeas" id="292" weight="10" />
+      <edge source="ground cumin" target="chopped cilantro" id="293" weight="14" />
+      <edge source="ground cumin" target="paprika" id="294" weight="10" />
+      <edge source="curry powder" target="garlic cloves" id="295" weight="10" />
+      <edge source="chopped cilantro" target="garlic cloves" id="296" weight="14" />
+      <edge source="diced tomatoes" target="garlic cloves" id="297" weight="11" />
+      <edge source="garlic cloves" target="chopped fresh mint" id="298" weight="15" />
+      <edge source="garlic cloves" target="crushed red pepper" id="299" weight="13" />
+      <edge source="garlic cloves" target="dry red wine" id="300" weight="12" />
+      <edge source="garlic cloves" target="red wine vinegar" id="301" weight="14" />
+      <edge source="garlic cloves" target="zucchini" id="302" weight="14" />
+      <edge source="garlic cloves" target="flat leaf parsley" id="303" weight="16" />
+      <edge source="garlic cloves" target="cooking spray" id="304" weight="22" />
+      <edge source="garlic cloves" target="chopped onion" id="305" weight="16" />
+      <edge source="garlic cloves" target="oregano" id="306" weight="12" />
+      <edge source="garlic cloves" target="black peppercorns" id="307" weight="10" />
+      <edge source="garlic cloves" target="thyme" id="308" weight="11" />
+      <edge source="garlic cloves" target="mint" id="309" weight="10" />
+      <edge source="garlic cloves" target="dill" id="310" weight="13" />
+      <edge source="garlic cloves" target="plum tomatoes" id="311" weight="14" />
+      <edge source="garlic cloves" target="low salt chicken broth" id="312" weight="10" />
+      <edge source="garlic cloves" target="peeled fresh ginger" id="313" weight="10" />
+      <edge source="garlic cloves" target="honey" id="314" weight="10" />
+      <edge source="beansprouts" target="rice noodles" id="315" weight="10" />
+      <edge source="beansprouts" target="peanuts" id="316" weight="12" />
+      <edge source="zucchini" target="eggplant" id="317" weight="10" />
+    </edges>
+  </graph>
+</gexf>

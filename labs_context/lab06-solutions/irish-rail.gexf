@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-02-13">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Athenry" label="Athenry" />
+      <node id="Ballina" label="Ballina" />
+      <node id="Belfast" label="Belfast" />
+      <node id="Cobh" label="Cobh" />
+      <node id="Cork" label="Cork" />
+      <node id="Dublin" label="Dublin" />
+      <node id="Dundalk" label="Dundalk" />
+      <node id="Ennis" label="Ennis" />
+      <node id="Galway" label="Galway" />
+      <node id="Gorey" label="Gorey" />
+      <node id="Limerick" label="Limerick" />
+      <node id="Longford" label="Longford" />
+      <node id="Mallow" label="Mallow" />
+      <node id="Maynooth" label="Maynooth" />
+      <node id="Midleton" label="Midleton" />
+      <node id="Nenagh" label="Nenagh" />
+      <node id="Port Laoise" label="Port Laoise" />
+      <node id="Rosslare" label="Rosslare" />
+      <node id="Sligo" label="Sligo" />
+      <node id="Tralee" label="Tralee" />
+      <node id="Waterford" label="Waterford" />
+      <node id="Westport" label="Westport" />
+    </nodes>
+    <edges>
+      <edge source="Athenry" target="Galway" id="0" weight="1.0" />
+      <edge source="Ballina" target="Dublin" id="1" weight="1.0" />
+      <edge source="Belfast" target="Dublin" id="2" weight="1.0" />
+      <edge source="Cobh" target="Cork" id="3" weight="1.0" />
+      <edge source="Cobh" target="Mallow" id="4" weight="1.0" />
+      <edge source="Cork" target="Dublin" id="5" weight="1.0" />
+      <edge source="Cork" target="Tralee" id="6" weight="1.0" />
+      <edge source="Dublin" target="Dundalk" id="7" weight="1.0" />
+      <edge source="Dublin" target="Ennis" id="8" weight="1.0" />
+      <edge source="Dublin" target="Galway" id="9" weight="1.0" />
+      <edge source="Dublin" target="Gorey" id="10" weight="1.0" />
+      <edge source="Dublin" target="Limerick" id="11" weight="1.0" />
+      <edge source="Dublin" target="Longford" id="12" weight="1.0" />
+      <edge source="Dublin" target="Maynooth" id="13" weight="1.0" />
+      <edge source="Dublin" target="Port Laoise" id="14" weight="1.0" />
+      <edge source="Dublin" target="Rosslare" id="15" weight="1.0" />
+      <edge source="Dublin" target="Sligo" id="16" weight="1.0" />
+      <edge source="Dublin" target="Tralee" id="17" weight="1.0" />
+      <edge source="Dublin" target="Waterford" id="18" weight="1.0" />
+      <edge source="Dublin" target="Westport" id="19" weight="1.0" />
+      <edge source="Ennis" target="Limerick" id="20" weight="1.0" />
+      <edge source="Galway" target="Limerick" id="21" weight="1.0" />
+      <edge source="Limerick" target="Nenagh" id="22" weight="1.0" />
+      <edge source="Limerick" target="Waterford" id="23" weight="1.0" />
+      <edge source="Mallow" target="Midleton" id="24" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

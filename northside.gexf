@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-08">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="area" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ST_0094" label="ST_0094">
+        <attvalues>
+          <attvalue for="0" value="Charleville Road" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0044" label="ST_0044">
+        <attvalues>
+          <attvalue for="0" value="Guild Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0077" label="ST_0077">
+        <attvalues>
+          <attvalue for="0" value="Phibsborough Road" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0103" label="ST_0103">
+        <attvalues>
+          <attvalue for="0" value="Ormond Quay Upper" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0054" label="ST_0054">
+        <attvalues>
+          <attvalue for="0" value="Killarney Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0081" label="ST_0081">
+        <attvalues>
+          <attvalue for="0" value="Blessington Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0083" label="ST_0083">
+        <attvalues>
+          <attvalue for="0" value="Mountjoy Square East" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0110" label="ST_0110">
+        <attvalues>
+          <attvalue for="0" value="Blackhall Place" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0102" label="ST_0102">
+        <attvalues>
+          <attvalue for="0" value="Jervis Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0076" label="ST_0076">
+        <attvalues>
+          <attvalue for="0" value="Georges Lane" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0096" label="ST_0096">
+        <attvalues>
+          <attvalue for="0" value="Upper Sherrard Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0053" label="ST_0053">
+        <attvalues>
+          <attvalue for="0" value="King Street North" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0104" label="ST_0104">
+        <attvalues>
+          <attvalue for="0" value="Grangegorman Lower (South)" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0078" label="ST_0078">
+        <attvalues>
+          <attvalue for="0" value="Eccles Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0047" label="ST_0047">
+        <attvalues>
+          <attvalue for="0" value="Western Way" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0064" label="ST_0064">
+        <attvalues>
+          <attvalue for="0" value="Eccles Street East" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0092" label="ST_0092">
+        <attvalues>
+          <attvalue for="0" value="Buckingham Street Lower" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0048" label="ST_0048">
+        <attvalues>
+          <attvalue for="0" value="Talbot Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0086" label="ST_0086">
+        <attvalues>
+          <attvalue for="0" value="Hardwicke Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0108" label="ST_0108">
+        <attvalues>
+          <attvalue for="0" value="Heuston Bridge (North)" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0040" label="ST_0040">
+        <attvalues>
+          <attvalue for="0" value="Hardwicke Place" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0095" label="ST_0095">
+        <attvalues>
+          <attvalue for="0" value="Princes Street / O'Connell Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0010" label="ST_0010">
+        <attvalues>
+          <attvalue for="0" value="Excise Walk" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0069" label="ST_0069">
+        <attvalues>
+          <attvalue for="0" value="Denmark Street Great" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0080" label="ST_0080">
+        <attvalues>
+          <attvalue for="0" value="Mater Hospital" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0001" label="ST_0001">
+        <attvalues>
+          <attvalue for="0" value="Smithfield North" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0090" label="ST_0090">
+        <attvalues>
+          <attvalue for="0" value="Cathal Brugha Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0105" label="ST_0105">
+        <attvalues>
+          <attvalue for="0" value="Mountjoy Square West" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0034" label="ST_0034">
+        <attvalues>
+          <attvalue for="0" value="The Point" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0041" label="ST_0041">
+        <attvalues>
+          <attvalue for="0" value="Wolfe Tone Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0057" label="ST_0057">
+        <attvalues>
+          <attvalue for="0" value="Custom House Quay" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0017" label="ST_0017">
+        <attvalues>
+          <attvalue for="0" value="Rathdown Road" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0018" label="ST_0018">
+        <attvalues>
+          <attvalue for="0" value="North Circular Road (O'Connell'S)" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0052" label="ST_0052">
+        <attvalues>
+          <attvalue for="0" value="Grangegorman Lower (Central)" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0087" label="ST_0087">
+        <attvalues>
+          <attvalue for="0" value="Parkgate Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0016" label="ST_0016">
+        <attvalues>
+          <attvalue for="0" value="Custom House" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0026" label="ST_0026">
+        <attvalues>
+          <attvalue for="0" value="Deverell Place" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0014" label="ST_0014">
+        <attvalues>
+          <attvalue for="0" value="Parnell Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0004" label="ST_0004">
+        <attvalues>
+          <attvalue for="0" value="Avondale Road" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0101" label="ST_0101">
+        <attvalues>
+          <attvalue for="0" value="Bolton Street" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0002" label="ST_0002">
+        <attvalues>
+          <attvalue for="0" value="Parnell Square North" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0072" label="ST_0072">
+        <attvalues>
+          <attvalue for="0" value="Grangegorman Lower (North)" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+      <node id="ST_0035" label="ST_0035">
+        <attvalues>
+          <attvalue for="0" value="Broadstone" />
+          <attvalue for="1" value="Northside" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ST_0094" target="ST_0002" id="0" weight="2" />
+      <edge source="ST_0094" target="ST_0081" id="1" weight="1" />
+      <edge source="ST_0094" target="ST_0077" id="2" weight="1" />
+      <edge source="ST_0094" target="ST_0096" id="3" weight="1" />
+      <edge source="ST_0094" target="ST_0014" id="4" weight="1" />
+      <edge source="ST_0094" target="ST_0040" id="5" weight="1" />
+      <edge source="ST_0094" target="ST_0001" id="6" weight="3" />
+      <edge source="ST_0094" target="ST_0047" id="7" weight="1" />
+      <edge source="ST_0094" target="ST_0095" id="8" weight="3" />
+      <edge source="ST_0094" target="ST_0102" id="9" weight="1" />
+      <edge source="ST_0094" target="ST_0086" id="10" weight="1" />
+      <edge source="ST_0044" target="ST_0048" id="11" weight="3" />
+      <edge source="ST_0044" target="ST_0102" id="12" weight="1" />
+      <edge source="ST_0044" target="ST_0095" id="13" weight="3" />
+      <edge source="ST_0044" target="ST_0054" id="14" weight="1" />
+      <edge source="ST_0044" target="ST_0016" id="15" weight="2" />
+      <edge source="ST_0044" target="ST_0026" id="16" weight="1" />
+      <edge source="ST_0044" target="ST_0002" id="17" weight="1" />
+      <edge source="ST_0044" target="ST_0057" id="18" weight="1" />
+      <edge source="ST_0044" target="ST_0018" id="19" weight="1" />
+      <edge source="ST_0077" target="ST_0072" id="20" weight="1" />
+      <edge source="ST_0077" target="ST_0095" id="21" weight="9" />
+      <edge source="ST_0077" target="ST_0069" id="22" weight="2" />
+      <edge source="ST_0077" target="ST_0002" id="23" weight="4" />
+      <edge source="ST_0077" target="ST_0083" id="24" weight="1" />
+      <edge source="ST_0077" target="ST_0001" id="25" weight="2" />
+      <edge source="ST_0077" target="ST_0102" id="26" weight="3" />
+      <edge source="ST_0077" target="ST_0086" id="27" weight="3" />
+      <edge source="ST_0077" target="ST_0047" id="28" weight="1" />
+      <edge source="ST_0077" target="ST_0104" id="29" weight="1" />
+      <edge source="ST_0077" target="ST_0041" id="30" weight="1" />
+      <edge source="ST_0103" target="ST_0047" id="31" weight="2" />
+      <edge source="ST_0103" target="ST_0002" id="32" weight="3" />
+      <edge source="ST_0103" target="ST_0095" id="33" weight="2" />
+      <edge source="ST_0103" target="ST_0001" id="34" weight="2" />
+      <edge source="ST_0103" target="ST_0069" id="35" weight="1" />
+      <edge source="ST_0054" target="ST_0018" id="36" weight="3" />
+      <edge source="ST_0054" target="ST_0010" id="37" weight="2" />
+      <edge source="ST_0054" target="ST_0016" id="38" weight="2" />
+      <edge source="ST_0054" target="ST_0048" id="39" weight="3" />
+      <edge source="ST_0054" target="ST_0102" id="40" weight="1" />
+      <edge source="ST_0054" target="ST_0044" id="41" weight="2" />
+      <edge source="ST_0054" target="ST_0092" id="42" weight="2" />
+      <edge source="ST_0054" target="ST_0095" id="43" weight="1" />
+      <edge source="ST_0054" target="ST_0057" id="44" weight="1" />
+      <edge source="ST_0081" target="ST_0080" id="45" weight="1" />
+      <edge source="ST_0081" target="ST_0002" id="46" weight="1" />
+      <edge source="ST_0081" target="ST_0096" id="47" weight="1" />
+      <edge source="ST_0081" target="ST_0053" id="48" weight="1" />
+      <edge source="ST_0081" target="ST_0064" id="49" weight="1" />
+      <edge source="ST_0081" target="ST_0052" id="50" weight="1" />
+      <edge source="ST_0081" target="ST_0095" id="51" weight="1" />
+      <edge source="ST_0083" target="ST_0064" id="52" weight="2" />
+      <edge source="ST_0083" target="ST_0080" id="53" weight="2" />
+      <edge source="ST_0083" target="ST_0095" id="54" weight="6" />
+      <edge source="ST_0083" target="ST_0001" id="55" weight="3" />
+      <edge source="ST_0083" target="ST_0069" id="56" weight="1" />
+      <edge source="ST_0083" target="ST_0105" id="57" weight="1" />
+      <edge source="ST_0083" target="ST_0102" id="58" weight="1" />
+      <edge source="ST_0110" target="ST_0002" id="59" weight="4" />
+      <edge source="ST_0110" target="ST_0105" id="60" weight="1" />
+      <edge source="ST_0110" target="ST_0102" id="61" weight="3" />
+      <edge source="ST_0110" target="ST_0095" id="62" weight="7" />
+      <edge source="ST_0110" target="ST_0047" id="63" weight="1" />
+      <edge source="ST_0110" target="ST_0086" id="64" weight="2" />
+      <edge source="ST_0110" target="ST_0083" id="65" weight="1" />
+      <edge source="ST_0102" target="ST_0002" id="66" weight="6" />
+      <edge source="ST_0102" target="ST_0076" id="67" weight="2" />
+      <edge source="ST_0102" target="ST_0095" id="68" weight="7" />
+      <edge source="ST_0102" target="ST_0014" id="69" weight="2" />
+      <edge source="ST_0102" target="ST_0069" id="70" weight="1" />
+      <edge source="ST_0102" target="ST_0035" id="71" weight="1" />
+      <edge source="ST_0102" target="ST_0040" id="72" weight="1" />
+      <edge source="ST_0102" target="ST_0041" id="73" weight="4" />
+      <edge source="ST_0102" target="ST_0001" id="74" weight="2" />
+      <edge source="ST_0102" target="ST_0090" id="75" weight="2" />
+      <edge source="ST_0102" target="ST_0086" id="76" weight="1" />
+      <edge source="ST_0076" target="ST_0086" id="77" weight="1" />
+      <edge source="ST_0076" target="ST_0072" id="78" weight="1" />
+      <edge source="ST_0076" target="ST_0095" id="79" weight="5" />
+      <edge source="ST_0076" target="ST_0101" id="80" weight="1" />
+      <edge source="ST_0076" target="ST_0047" id="81" weight="1" />
+      <edge source="ST_0076" target="ST_0002" id="82" weight="5" />
+      <edge source="ST_0076" target="ST_0001" id="83" weight="1" />
+      <edge source="ST_0076" target="ST_0077" id="84" weight="1" />
+      <edge source="ST_0076" target="ST_0105" id="85" weight="2" />
+      <edge source="ST_0076" target="ST_0014" id="86" weight="1" />
+      <edge source="ST_0076" target="ST_0035" id="87" weight="1" />
+      <edge source="ST_0076" target="ST_0104" id="88" weight="2" />
+      <edge source="ST_0076" target="ST_0096" id="89" weight="1" />
+      <edge source="ST_0096" target="ST_0095" id="90" weight="6" />
+      <edge source="ST_0096" target="ST_0083" id="91" weight="2" />
+      <edge source="ST_0096" target="ST_0090" id="92" weight="1" />
+      <edge source="ST_0096" target="ST_0035" id="93" weight="1" />
+      <edge source="ST_0096" target="ST_0102" id="94" weight="2" />
+      <edge source="ST_0096" target="ST_0081" id="95" weight="1" />
+      <edge source="ST_0096" target="ST_0001" id="96" weight="3" />
+      <edge source="ST_0096" target="ST_0041" id="97" weight="1" />
+      <edge source="ST_0096" target="ST_0053" id="98" weight="1" />
+      <edge source="ST_0096" target="ST_0064" id="99" weight="1" />
+      <edge source="ST_0096" target="ST_0080" id="100" weight="2" />
+      <edge source="ST_0096" target="ST_0077" id="101" weight="1" />
+      <edge source="ST_0096" target="ST_0040" id="102" weight="1" />
+      <edge source="ST_0096" target="ST_0002" id="103" weight="1" />
+      <edge source="ST_0053" target="ST_0095" id="104" weight="5" />
+      <edge source="ST_0053" target="ST_0096" id="105" weight="4" />
+      <edge source="ST_0053" target="ST_0081" id="106" weight="1" />
+      <edge source="ST_0053" target="ST_0102" id="107" weight="2" />
+      <edge source="ST_0053" target="ST_0002" id="108" weight="2" />
+      <edge source="ST_0053" target="ST_0041" id="109" weight="1" />
+      <edge source="ST_0053" target="ST_0052" id="110" weight="1" />
+      <edge source="ST_0053" target="ST_0080" id="111" weight="1" />
+      <edge source="ST_0053" target="ST_0105" id="112" weight="1" />
+      <edge source="ST_0053" target="ST_0076" id="113" weight="1" />
+      <edge source="ST_0104" target="ST_0090" id="114" weight="1" />
+      <edge source="ST_0104" target="ST_0002" id="115" weight="4" />
+      <edge source="ST_0104" target="ST_0078" id="116" weight="1" />
+      <edge source="ST_0104" target="ST_0001" id="117" weight="2" />
+      <edge source="ST_0104" target="ST_0095" id="118" weight="9" />
+      <edge source="ST_0104" target="ST_0040" id="119" weight="1" />
+      <edge source="ST_0104" target="ST_0072" id="120" weight="1" />
+      <edge source="ST_0104" target="ST_0096" id="121" weight="1" />
+      <edge source="ST_0104" target="ST_0053" id="122" weight="1" />
+      <edge source="ST_0104" target="ST_0102" id="123" weight="2" />
+      <edge source="ST_0104" target="ST_0041" id="124" weight="1" />
+      <edge source="ST_0078" target="ST_0069" id="125" weight="1" />
+      <edge source="ST_0078" target="ST_0095" id="126" weight="5" />
+      <edge source="ST_0078" target="ST_0014" id="127" weight="2" />
+      <edge source="ST_0078" target="ST_0035" id="128" weight="1" />
+      <edge source="ST_0078" target="ST_0081" id="129" weight="2" />
+      <edge source="ST_0078" target="ST_0001" id="130" weight="2" />
+      <edge source="ST_0078" target="ST_0053" id="131" weight="1" />
+      <edge source="ST_0078" target="ST_0090" id="132" weight="1" />
+      <edge source="ST_0047" target="ST_0002" id="133" weight="5" />
+      <edge source="ST_0047" target="ST_0053" id="134" weight="2" />
+      <edge source="ST_0047" target="ST_0001" id="135" weight="1" />
+      <edge source="ST_0047" target="ST_0083" id="136" weight="1" />
+      <edge source="ST_0047" target="ST_0101" id="137" weight="2" />
+      <edge source="ST_0047" target="ST_0096" id="138" weight="1" />
+      <edge source="ST_0047" target="ST_0095" id="139" weight="3" />
+      <edge source="ST_0047" target="ST_0090" id="140" weight="1" />
+      <edge source="ST_0047" target="ST_0104" id="141" weight="1" />
+      <edge source="ST_0047" target="ST_0077" id="142" weight="1" />
+      <edge source="ST_0047" target="ST_0064" id="143" weight="1" />
+      <edge source="ST_0047" target="ST_0080" id="144" weight="1" />
+      <edge source="ST_0047" target="ST_0102" id="145" weight="1" />
+      <edge source="ST_0047" target="ST_0014" id="146" weight="1" />
+      <edge source="ST_0064" target="ST_0095" id="147" weight="9" />
+      <edge source="ST_0064" target="ST_0096" id="148" weight="1" />
+      <edge source="ST_0064" target="ST_0002" id="149" weight="5" />
+      <edge source="ST_0064" target="ST_0104" id="150" weight="1" />
+      <edge source="ST_0064" target="ST_0014" id="151" weight="1" />
+      <edge source="ST_0064" target="ST_0081" id="152" weight="2" />
+      <edge source="ST_0064" target="ST_0001" id="153" weight="3" />
+      <edge source="ST_0064" target="ST_0041" id="154" weight="2" />
+      <edge source="ST_0064" target="ST_0077" id="155" weight="1" />
+      <edge source="ST_0064" target="ST_0102" id="156" weight="1" />
+      <edge source="ST_0064" target="ST_0040" id="157" weight="1" />
+      <edge source="ST_0064" target="ST_0078" id="158" weight="1" />
+      <edge source="ST_0092" target="ST_0095" id="159" weight="2" />
+      <edge source="ST_0092" target="ST_0001" id="160" weight="2" />
+      <edge source="ST_0092" target="ST_0002" id="161" weight="1" />
+      <edge source="ST_0092" target="ST_0090" id="162" weight="1" />
+      <edge source="ST_0092" target="ST_0048" id="163" weight="1" />
+      <edge source="ST_0092" target="ST_0018" id="164" weight="2" />
+      <edge source="ST_0092" target="ST_0044" id="165" weight="1" />
+      <edge source="ST_0048" target="ST_0002" id="166" weight="2" />
+      <edge source="ST_0048" target="ST_0018" id="167" weight="3" />
+      <edge source="ST_0048" target="ST_0057" id="168" weight="1" />
+      <edge source="ST_0048" target="ST_0016" id="169" weight="2" />
+      <edge source="ST_0048" target="ST_0102" id="170" weight="1" />
+      <edge source="ST_0048" target="ST_0014" id="171" weight="1" />
+      <edge source="ST_0048" target="ST_0095" id="172" weight="3" />
+      <edge source="ST_0048" target="ST_0026" id="173" weight="1" />
+      <edge source="ST_0048" target="ST_0054" id="174" weight="2" />
+      <edge source="ST_0048" target="ST_0090" id="175" weight="1" />
+      <edge source="ST_0048" target="ST_0044" id="176" weight="1" />
+      <edge source="ST_0086" target="ST_0095" id="177" weight="10" />
+      <edge source="ST_0086" target="ST_0002" id="178" weight="5" />
+      <edge source="ST_0086" target="ST_0001" id="179" weight="2" />
+      <edge source="ST_0086" target="ST_0083" id="180" weight="1" />
+      <edge source="ST_0086" target="ST_0102" id="181" weight="3" />
+      <edge source="ST_0086" target="ST_0052" id="182" weight="2" />
+      <edge source="ST_0086" target="ST_0053" id="183" weight="1" />
+      <edge source="ST_0086" target="ST_0069" id="184" weight="1" />
+      <edge source="ST_0086" target="ST_0080" id="185" weight="1" />
+      <edge source="ST_0086" target="ST_0096" id="186" weight="1" />
+      <edge source="ST_0108" target="ST_0002" id="187" weight="3" />
+      <edge source="ST_0108" target="ST_0087" id="188" weight="2" />
+      <edge source="ST_0108" target="ST_0001" id="189" weight="4" />
+      <edge source="ST_0108" target="ST_0047" id="190" weight="1" />
+      <edge source="ST_0108" target="ST_0102" id="191" weight="1" />
+      <edge source="ST_0108" target="ST_0026" id="192" weight="1" />
+      <edge source="ST_0108" target="ST_0101" id="193" weight="1" />
+      <edge source="ST_0040" target="ST_0083" id="194" weight="1" />
+      <edge source="ST_0040" target="ST_0095" id="195" weight="8" />
+      <edge source="ST_0040" target="ST_0001" id="196" weight="4" />
+      <edge source="ST_0040" target="ST_0081" id="197" weight="1" />
+      <edge source="ST_0040" target="ST_0064" id="198" weight="1" />
+      <edge source="ST_0040" target="ST_0090" id="199" weight="1" />
+      <edge source="ST_0040" target="ST_0002" id="200" weight="3" />
+      <edge source="ST_0040" target="ST_0086" id="201" weight="1" />
+      <edge source="ST_0040" target="ST_0072" id="202" weight="1" />
+      <edge source="ST_0040" target="ST_0102" id="203" weight="1" />
+      <edge source="ST_0040" target="ST_0069" id="204" weight="1" />
+      <edge source="ST_0095" target="ST_0002" id="205" weight="13" />
+      <edge source="ST_0095" target="ST_0040" id="206" weight="2" />
+      <edge source="ST_0095" target="ST_0077" id="207" weight="2" />
+      <edge source="ST_0095" target="ST_0101" id="208" weight="2" />
+      <edge source="ST_0095" target="ST_0081" id="209" weight="2" />
+      <edge source="ST_0095" target="ST_0102" id="210" weight="4" />
+      <edge source="ST_0095" target="ST_0001" id="211" weight="4" />
+      <edge source="ST_0095" target="ST_0035" id="212" weight="1" />
+      <edge source="ST_0095" target="ST_0076" id="213" weight="1" />
+      <edge source="ST_0095" target="ST_0014" id="214" weight="3" />
+      <edge source="ST_0095" target="ST_0104" id="215" weight="1" />
+      <edge source="ST_0095" target="ST_0083" id="216" weight="2" />
+      <edge source="ST_0095" target="ST_0053" id="217" weight="1" />
+      <edge source="ST_0095" target="ST_0090" id="218" weight="1" />
+      <edge source="ST_0095" target="ST_0078" id="219" weight="2" />
+      <edge source="ST_0010" target="ST_0092" id="220" weight="2" />
+      <edge source="ST_0010" target="ST_0044" id="221" weight="1" />
+      <edge source="ST_0010" target="ST_0102" id="222" weight="3" />
+      <edge source="ST_0010" target="ST_0048" id="223" weight="3" />
+      <edge source="ST_0010" target="ST_0095" id="224" weight="4" />
+      <edge source="ST_0010" target="ST_0054" id="225" weight="2" />
+      <edge source="ST_0010" target="ST_0002" id="226" weight="1" />
+      <edge source="ST_0010" target="ST_0018" id="227" weight="1" />
+      <edge source="ST_0069" target="ST_0040" id="228" weight="1" />
+      <edge source="ST_0069" target="ST_0001" id="229" weight="4" />
+      <edge source="ST_0069" target="ST_0095" id="230" weight="10" />
+      <edge source="ST_0069" target="ST_0077" id="231" weight="1" />
+      <edge source="ST_0069" target="ST_0002" id="232" weight="4" />
+      <edge source="ST_0069" target="ST_0080" id="233" weight="1" />
+      <edge source="ST_0069" target="ST_0078" id="234" weight="1" />
+      <edge source="ST_0069" target="ST_0064" id="235" weight="1" />
+      <edge source="ST_0080" target="ST_0002" id="236" weight="3" />
+      <edge source="ST_0080" target="ST_0095" id="237" weight="7" />
+      <edge source="ST_0080" target="ST_0001" id="238" weight="2" />
+      <edge source="ST_0080" target="ST_0081" id="239" weight="1" />
+      <edge source="ST_0080" target="ST_0105" id="240" weight="2" />
+      <edge source="ST_0080" target="ST_0102" id="241" weight="2" />
+      <edge source="ST_0080" target="ST_0014" id="242" weight="1" />
+      <edge source="ST_0080" target="ST_0064" id="243" weight="1" />
+      <edge source="ST_0080" target="ST_0104" id="244" weight="1" />
+      <edge source="ST_0080" target="ST_0053" id="245" weight="1" />
+      <edge source="ST_0080" target="ST_0078" id="246" weight="1" />
+      <edge source="ST_0080" target="ST_0083" id="247" weight="1" />
+      <edge source="ST_0080" target="ST_0041" id="248" weight="1" />
+      <edge source="ST_0080" target="ST_0090" id="249" weight="1" />
+      <edge source="ST_0001" target="ST_0002" id="250" weight="3" />
+      <edge source="ST_0001" target="ST_0076" id="251" weight="1" />
+      <edge source="ST_0001" target="ST_0095" id="252" weight="5" />
+      <edge source="ST_0001" target="ST_0105" id="253" weight="1" />
+      <edge source="ST_0001" target="ST_0102" id="254" weight="2" />
+      <edge source="ST_0001" target="ST_0041" id="255" weight="2" />
+      <edge source="ST_0001" target="ST_0014" id="256" weight="1" />
+      <edge source="ST_0001" target="ST_0053" id="257" weight="1" />
+      <edge source="ST_0001" target="ST_0083" id="258" weight="2" />
+      <edge source="ST_0001" target="ST_0081" id="259" weight="1" />
+      <edge source="ST_0001" target="ST_0052" id="260" weight="1" />
+      <edge source="ST_0090" target="ST_0069" id="261" weight="2" />
+      <edge source="ST_0090" target="ST_0053" id="262" weight="2" />
+      <edge source="ST_0090" target="ST_0095" id="263" weight="9" />
+      <edge source="ST_0090" target="ST_0086" id="264" weight="2" />
+      <edge source="ST_0090" target="ST_0081" id="265" weight="2" />
+      <edge source="ST_0090" target="ST_0002" id="266" weight="7" />
+      <edge source="ST_0090" target="ST_0102" id="267" weight="2" />
+      <edge source="ST_0090" target="ST_0052" id="268" weight="2" />
+      <edge source="ST_0090" target="ST_0104" id="269" weight="1" />
+      <edge source="ST_0090" target="ST_0014" id="270" weight="1" />
+      <edge source="ST_0105" target="ST_0095" id="271" weight="7" />
+      <edge source="ST_0105" target="ST_0002" id="272" weight="2" />
+      <edge source="ST_0105" target="ST_0047" id="273" weight="1" />
+      <edge source="ST_0105" target="ST_0035" id="274" weight="1" />
+      <edge source="ST_0105" target="ST_0001" id="275" weight="3" />
+      <edge source="ST_0105" target="ST_0040" id="276" weight="2" />
+      <edge source="ST_0105" target="ST_0080" id="277" weight="1" />
+      <edge source="ST_0105" target="ST_0064" id="278" weight="2" />
+      <edge source="ST_0105" target="ST_0081" id="279" weight="1" />
+      <edge source="ST_0105" target="ST_0102" id="280" weight="2" />
+      <edge source="ST_0105" target="ST_0014" id="281" weight="1" />
+      <edge source="ST_0105" target="ST_0078" id="282" weight="1" />
+      <edge source="ST_0034" target="ST_0026" id="283" weight="1" />
+      <edge source="ST_0034" target="ST_0095" id="284" weight="1" />
+      <edge source="ST_0034" target="ST_0016" id="285" weight="1" />
+      <edge source="ST_0041" target="ST_0053" id="286" weight="2" />
+      <edge source="ST_0041" target="ST_0095" id="287" weight="10" />
+      <edge source="ST_0041" target="ST_0001" id="288" weight="3" />
+      <edge source="ST_0041" target="ST_0052" id="289" weight="1" />
+      <edge source="ST_0041" target="ST_0014" id="290" weight="3" />
+      <edge source="ST_0041" target="ST_0002" id="291" weight="5" />
+      <edge source="ST_0041" target="ST_0090" id="292" weight="1" />
+      <edge source="ST_0041" target="ST_0086" id="293" weight="2" />
+      <edge source="ST_0041" target="ST_0047" id="294" weight="1" />
+      <edge source="ST_0041" target="ST_0102" id="295" weight="2" />
+      <edge source="ST_0041" target="ST_0083" id="296" weight="1" />
+      <edge source="ST_0041" target="ST_0035" id="297" weight="1" />
+      <edge source="ST_0041" target="ST_0096" id="298" weight="1" />
+      <edge source="ST_0057" target="ST_0026" id="299" weight="3" />
+      <edge source="ST_0057" target="ST_0102" id="300" weight="1" />
+      <edge source="ST_0057" target="ST_0092" id="301" weight="1" />
+      <edge source="ST_0057" target="ST_0001" id="302" weight="1" />
+      <edge source="ST_0057" target="ST_0016" id="303" weight="1" />
+      <edge source="ST_0017" target="ST_0053" id="304" weight="1" />
+      <edge source="ST_0017" target="ST_0001" id="305" weight="4" />
+      <edge source="ST_0017" target="ST_0014" id="306" weight="1" />
+      <edge source="ST_0017" target="ST_0086" id="307" weight="1" />
+      <edge source="ST_0017" target="ST_0101" id="308" weight="1" />
+      <edge source="ST_0017" target="ST_0095" id="309" weight="1" />
+      <edge source="ST_0018" target="ST_0057" id="310" weight="1" />
+      <edge source="ST_0018" target="ST_0048" id="311" weight="4" />
+      <edge source="ST_0018" target="ST_0014" id="312" weight="1" />
+      <edge source="ST_0018" target="ST_0001" id="313" weight="2" />
+      <edge source="ST_0018" target="ST_0016" id="314" weight="1" />
+      <edge source="ST_0018" target="ST_0095" id="315" weight="2" />
+      <edge source="ST_0018" target="ST_0010" id="316" weight="1" />
+      <edge source="ST_0018" target="ST_0026" id="317" weight="2" />
+      <edge source="ST_0018" target="ST_0044" id="318" weight="1" />
+      <edge source="ST_0018" target="ST_0092" id="319" weight="1" />
+      <edge source="ST_0052" target="ST_0105" id="320" weight="1" />
+      <edge source="ST_0052" target="ST_0001" id="321" weight="1" />
+      <edge source="ST_0052" target="ST_0104" id="322" weight="1" />
+      <edge source="ST_0052" target="ST_0095" id="323" weight="2" />
+      <edge source="ST_0052" target="ST_0035" id="324" weight="2" />
+      <edge source="ST_0052" target="ST_0002" id="325" weight="2" />
+      <edge source="ST_0052" target="ST_0053" id="326" weight="1" />
+      <edge source="ST_0052" target="ST_0041" id="327" weight="1" />
+      <edge source="ST_0052" target="ST_0101" id="328" weight="1" />
+      <edge source="ST_0052" target="ST_0081" id="329" weight="1" />
+      <edge source="ST_0052" target="ST_0040" id="330" weight="1" />
+      <edge source="ST_0087" target="ST_0108" id="331" weight="3" />
+      <edge source="ST_0087" target="ST_0095" id="332" weight="2" />
+      <edge source="ST_0087" target="ST_0026" id="333" weight="1" />
+      <edge source="ST_0087" target="ST_0041" id="334" weight="1" />
+      <edge source="ST_0087" target="ST_0002" id="335" weight="1" />
+      <edge source="ST_0087" target="ST_0102" id="336" weight="1" />
+      <edge source="ST_0087" target="ST_0014" id="337" weight="1" />
+      <edge source="ST_0087" target="ST_0090" id="338" weight="1" />
+      <edge source="ST_0016" target="ST_0044" id="339" weight="1" />
+      <edge source="ST_0016" target="ST_0002" id="340" weight="2" />
+      <edge source="ST_0016" target="ST_0095" id="341" weight="4" />
+      <edge source="ST_0016" target="ST_0018" id="342" weight="1" />
+      <edge source="ST_0016" target="ST_0048" id="343" weight="3" />
+      <edge source="ST_0016" target="ST_0001" id="344" weight="3" />
+      <edge source="ST_0016" target="ST_0054" id="345" weight="1" />
+      <edge source="ST_0016" target="ST_0010" id="346" weight="1" />
+      <edge source="ST_0016" target="ST_0026" id="347" weight="2" />
+      <edge source="ST_0016" target="ST_0092" id="348" weight="3" />
+      <edge source="ST_0016" target="ST_0014" id="349" weight="1" />
+      <edge source="ST_0026" target="ST_0016" id="350" weight="3" />
+      <edge source="ST_0026" target="ST_0048" id="351" weight="4" />
+      <edge source="ST_0026" target="ST_0095" id="352" weight="4" />
+      <edge source="ST_0026" target="ST_0018" id="353" weight="3" />
+      <edge source="ST_0026" target="ST_0044" id="354" weight="2" />
+      <edge source="ST_0026" target="ST_0002" id="355" weight="2" />
+      <edge source="ST_0026" target="ST_0057" id="356" weight="1" />
+      <edge source="ST_0026" target="ST_0054" id="357" weight="1" />
+      <edge source="ST_0026" target="ST_0010" id="358" weight="2" />
+      <edge source="ST_0026" target="ST_0092" id="359" weight="4" />
+      <edge source="ST_0026" target="ST_0102" id="360" weight="1" />
+      <edge source="ST_0014" target="ST_0095" id="361" weight="9" />
+      <edge source="ST_0014" target="ST_0001" id="362" weight="4" />
+      <edge source="ST_0014" target="ST_0083" id="363" weight="1" />
+      <edge source="ST_0014" target="ST_0053" id="364" weight="1" />
+      <edge source="ST_0014" target="ST_0105" id="365" weight="1" />
+      <edge source="ST_0014" target="ST_0078" id="366" weight="2" />
+      <edge source="ST_0014" target="ST_0102" id="367" weight="2" />
+      <edge source="ST_0014" target="ST_0069" id="368" weight="2" />
+      <edge source="ST_0014" target="ST_0002" id="369" weight="2" />
+      <edge source="ST_0014" target="ST_0090" id="370" weight="2" />
+      <edge source="ST_0014" target="ST_0040" id="371" weight="2" />
+      <edge source="ST_0014" target="ST_0101" id="372" weight="2" />
+      <edge source="ST_0014" target="ST_0035" id="373" weight="1" />
+      <edge source="ST_0014" target="ST_0096" id="374" weight="1" />
+      <edge source="ST_0004" target="ST_0001" id="375" weight="3" />
+      <edge source="ST_0004" target="ST_0053" id="376" weight="2" />
+      <edge source="ST_0004" target="ST_0105" id="377" weight="1" />
+      <edge source="ST_0004" target="ST_0095" id="378" weight="4" />
+      <edge source="ST_0004" target="ST_0040" id="379" weight="1" />
+      <edge source="ST_0004" target="ST_0002" id="380" weight="3" />
+      <edge source="ST_0004" target="ST_0102" id="381" weight="1" />
+      <edge source="ST_0004" target="ST_0041" id="382" weight="1" />
+      <edge source="ST_0004" target="ST_0078" id="383" weight="1" />
+      <edge source="ST_0101" target="ST_0081" id="384" weight="2" />
+      <edge source="ST_0101" target="ST_0095" id="385" weight="5" />
+      <edge source="ST_0101" target="ST_0002" id="386" weight="5" />
+      <edge source="ST_0101" target="ST_0083" id="387" weight="2" />
+      <edge source="ST_0101" target="ST_0102" id="388" weight="1" />
+      <edge source="ST_0101" target="ST_0105" id="389" weight="1" />
+      <edge source="ST_0101" target="ST_0001" id="390" weight="2" />
+      <edge source="ST_0101" target="ST_0080" id="391" weight="1" />
+      <edge source="ST_0101" target="ST_0069" id="392" weight="1" />
+      <edge source="ST_0002" target="ST_0090" id="393" weight="3" />
+      <edge source="ST_0002" target="ST_0105" id="394" weight="1" />
+      <edge source="ST_0002" target="ST_0095" id="395" weight="13" />
+      <edge source="ST_0002" target="ST_0035" id="396" weight="1" />
+      <edge source="ST_0002" target="ST_0001" id="397" weight="5" />
+      <edge source="ST_0002" target="ST_0081" id="398" weight="2" />
+      <edge source="ST_0002" target="ST_0083" id="399" weight="1" />
+      <edge source="ST_0002" target="ST_0040" id="400" weight="1" />
+      <edge source="ST_0002" target="ST_0014" id="401" weight="2" />
+      <edge source="ST_0002" target="ST_0069" id="402" weight="1" />
+      <edge source="ST_0002" target="ST_0102" id="403" weight="3" />
+      <edge source="ST_0002" target="ST_0101" id="404" weight="1" />
+      <edge source="ST_0002" target="ST_0086" id="405" weight="1" />
+      <edge source="ST_0002" target="ST_0078" id="406" weight="1" />
+      <edge source="ST_0002" target="ST_0064" id="407" weight="1" />
+      <edge source="ST_0072" target="ST_0095" id="408" weight="4" />
+      <edge source="ST_0072" target="ST_0001" id="409" weight="3" />
+      <edge source="ST_0072" target="ST_0077" id="410" weight="2" />
+      <edge source="ST_0072" target="ST_0102" id="411" weight="3" />
+      <edge source="ST_0072" target="ST_0014" id="412" weight="1" />
+      <edge source="ST_0072" target="ST_0002" id="413" weight="5" />
+      <edge source="ST_0072" target="ST_0090" id="414" weight="1" />
+      <edge source="ST_0072" target="ST_0101" id="415" weight="1" />
+      <edge source="ST_0072" target="ST_0069" id="416" weight="1" />
+      <edge source="ST_0072" target="ST_0064" id="417" weight="1" />
+      <edge source="ST_0035" target="ST_0095" id="418" weight="6" />
+      <edge source="ST_0035" target="ST_0101" id="419" weight="2" />
+      <edge source="ST_0035" target="ST_0072" id="420" weight="1" />
+      <edge source="ST_0035" target="ST_0001" id="421" weight="3" />
+      <edge source="ST_0035" target="ST_0053" id="422" weight="1" />
+      <edge source="ST_0035" target="ST_0002" id="423" weight="1" />
+      <edge source="ST_0035" target="ST_0040" id="424" weight="1" />
+      <edge source="ST_0035" target="ST_0102" id="425" weight="2" />
+      <edge source="ST_0035" target="ST_0014" id="426" weight="1" />
+      <edge source="ST_0035" target="ST_0081" id="427" weight="1" />
+      <edge source="ST_0035" target="ST_0080" id="428" weight="1" />
+    </edges>
+  </graph>
+</gexf>
